@@ -1,2 +1,1 @@
-# c-for-AI-
-Developing AI algorithms using c++ 
+# 🚀 Developing AI algorithms using c++ 
